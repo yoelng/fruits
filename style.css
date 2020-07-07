@@ -1,0 +1,17 @@
+
+h1{
+    font-family: 'Berkshire Swash', cursive;
+    color: red;
+    padding-left: 100px;
+}
+#green{
+    background-color: green;
+   padding-bottom: 10px;
+   
+}
+#fruit{
+    background-image: url(img/fruit.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+}
