@@ -7,6 +7,8 @@ h1{
 #green{
     background-color: green;
    padding-bottom: 10px;
+   padding-left: 500px;
+   
    
 }
 #fruit{
@@ -14,4 +16,11 @@ h1{
     background-repeat: no-repeat;
     background-size: cover;
     height: 50vh;
+}
+#one{
+    width: 200px;
+    border-radius: 50%;
+}
+#foot{
+    background-color: cyan;
 }
