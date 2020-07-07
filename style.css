@@ -16,11 +16,23 @@ h1{
     background-repeat: no-repeat;
     background-size: cover;
     height: 50vh;
+    
 }
 #one{
     width: 200px;
     border-radius: 50%;
+    cursor: pointer;
+    opacity: 0.8;
+   
 }
+
 #foot{
     background-color: cyan;
+}
+a{
+    padding: 10px;
+
+}
+h3{
+    color: black;
 }
